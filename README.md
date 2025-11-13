@@ -1,1 +1,3 @@
-# mortgage_calculator
+# mortgage-calculator
+
+![Image Name](images/image.png)
