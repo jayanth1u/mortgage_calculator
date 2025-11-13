@@ -1,3 +1,3 @@
 # mortgage-calculator
 
-![Image Name](images/image.png)
+![Image Name](mortgage.png)
